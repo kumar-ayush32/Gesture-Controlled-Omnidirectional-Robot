@@ -250,7 +250,7 @@ void loop() {
   //D0:EF:76:32:56:48 Robot MAC address
   if(count==1){
     count=0;
-    int receivedspeed = atoi(myData.b);
+    int receivedspeed = atoi(myData.b); //Receive data in array of char format and convert to integer
     char c=myData.c;
     Serial.print(c);
     Serial.print(" ");
