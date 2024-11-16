@@ -45,7 +45,7 @@ double findlowerMedian(std::vector<double> arr){
   //Return the value received in middle
   return arr[50];
 }
-
+//Send data using ESP_NOW protocol
 void sent_data(String S, String int_value){
   myData.c=S[0];
   strcpy(myData.b,int_value.c_str());
