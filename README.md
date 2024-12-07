@@ -25,7 +25,7 @@
 #### (v) Anti-Clockwise Rotation &emsp;&emsp; (vi) Clockwise Rotation
 <img src="https://hackmd.io/_uploads/HJr1hVH_C.gif" width="200" height="200"/> <img src="https://hackmd.io/_uploads/Bkhg2VB_A.gif" width="200" height="200"/>
 
-#### (vii) Forward-left motion &emsp;&emsp; (viii) Forward-right motion &emsp;&emsp; (ix) Backward-left motion &emsp;&emsp; (x) Backward-right motion
+#### (vii) Forward-right motion &emsp;&emsp; (viii) Backward-right motion &emsp;&emsp; (ix) Forward-left motion &emsp;&emsp; (x) Backward-left motion
 <img src="https://hackmd.io/_uploads/rJsTrrHOA.gif =200x" width="200" height="200"/> <img src="https://hackmd.io/_uploads/HyqAHHBdC.gif" width="200" height="200"/>
 <img src="https://hackmd.io/_uploads/HyEJISHdA.gif" width="200" height="200"/> <img src="https://hackmd.io/_uploads/SkKJUHHuR.gif" width="200" height="200"/>
 
@@ -73,19 +73,19 @@
 | --- | --- |
 
 
-### 5] Forward-Right motion and Gesture
+### 5] Backward-Right motion and Gesture
 | <img src="https://hackmd.io/_uploads/ByvxLhvzye.gif" alt="Image 1" style="height: 300px; width: 350px;"> | <img src="https://hackmd.io/_uploads/rk94Snvz1g.gif" alt="Image 2" style="height: 300px; width: 300px;"> |
 | --- | --- |
 
-### 6] Backward-Right motion and Gesture
+### 6] Forward-Right motion and Gesture
 | <img src="https://hackmd.io/_uploads/HyyDs8_Gyl.gif" alt="Image 1" style="height: 300px; width: 350px;"> | <img src="https://hackmd.io/_uploads/rJCcSTPz1g.gif" alt="Image 2" style="height: 300px; width: 300px;"> |
 | --- | --- |
 
-### 7] Forward-Left motion and Gesture
+### 7] Backward-Left motion and Gesture
 | <img src="https://hackmd.io/_uploads/B1ZfN8df1x.gif" alt="Image 1" style="height: 300px; width: 350px;"> | <img src="https://hackmd.io/_uploads/BkZywTvzJe.gif" alt="Image 2" style="height: 300px; width: 300px;"> |
 | --- | --- |
 
-### 8] Backward-Left motion and Gesture
+### 8] Forward-Left motion and Gesture
 | <img src="https://hackmd.io/_uploads/HJX4YU_Gkg.gif" alt="Image 1" style="height: 300px; width: 350px;"> | <img src="https://hackmd.io/_uploads/r1DS8I_zJx.gif" alt="Image 2" style="height: 300px; width: 300px;"> |
 | --- | --- |
 
