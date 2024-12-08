@@ -65,7 +65,7 @@
 | --- | --- |
 
 ### 3] Leftward motion and Gesture
-| <img src="https://github.com/user-attachments/assets/dc1f4fce-7738-4a88-85a0-ec11f394c3f2" alt="Image 1" style="height: 300px; width: 350px;"> | <img src="https://hackmd.io/_uploads/ryT8bhvMyx.gif" alt="Image 2" style="height: 300px; width: 300px;"> |
+| <img src="https://github.com/user-attachments/assets/dc1f4fce-7738-4a88-85a0-ec11f394c3f2" alt="Image 1" style="height: 300px; width: 350px;"> | <img src="https://github.com/user-attachments/assets/9730379a-bff3-45e2-8800-1b07a8ac1b5f" alt="Image 2" style="height: 300px; width: 300px;"> |
 | --- | --- |
 
 ### 4] Rightward motion and Gesture
