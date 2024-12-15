@@ -1,3 +1,4 @@
+//Connect the pins as mentioned
 # define M1_PWM 4
 # define M1_IN1 22
 # define M1_IN2 23
