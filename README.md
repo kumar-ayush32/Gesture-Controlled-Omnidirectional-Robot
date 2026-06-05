@@ -32,6 +32,10 @@
 #### Motion of robot with wheel rotating direction
 <img src="https://hackmd.io/_uploads/S1BWw0Bfyx.jpg" alt="Image" style="height: 500px; width: 500;">
 
+#### RPM Required by Each Wheel as a Function of Motion Angle
+##### The RPM of Wheels 1 and 3 remains identical across the entire range of motion angles and the RPM of Wheels 2 and 4 remains identical across the entire range of motion angles.
+<img width="644" height="558" alt="image" src="https://github.com/user-attachments/assets/027ef57e-cea3-450f-a74b-1132ddf2cd60" />
+
 ### 4. Speed Control with PWM Pins
 - **Purpose** : To control the speed of the motors driving the Mecanum wheels, we employed Pulse Width Modulation (PWM). This technique allows us to simulate varying levels of voltage by rapidly switching a digital signal between high (on) and low (off) states.
 - **How PWM Pins Works** :
